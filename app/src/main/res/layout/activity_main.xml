@@ -37,8 +37,5 @@
         android:layout_height="wrap_content"
         android:onClick="gotoScene2"
         android:text="Go To Scene 2"/>
-        />
-
-
 
 </LinearLayout>
